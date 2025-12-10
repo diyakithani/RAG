@@ -1,0 +1,123 @@
+Facebook is an American social media and social networking service owned by the American technology conglomerate Meta. Created in 2004 by Mark Zuckerberg with four other Harvard College students and roommates, Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes, its name derives from the face book directories often given to American university students. Membership was initially limited to Harvard students, gradually expanding to other North American universities.
+
+Since 2006, Facebook allows everyone to register from 13 years old, except in the case of a handful of nations, where the age requirement is 14 years.[6] As of December 2023, Facebook claimed almost 3.07 billion monthly active users worldwide.[7] As of July 2025, Facebook ranked as the third-most-visited website in the world, with 23% of its traffic coming from the United States.[8] It was the most downloaded mobile app of the 2010s.[9]
+
+Facebook can be accessed from devices with Internet connectivity, such as personal computers, tablets and smartphones. After registering, users can create a profile revealing personal information about themselves. They can post text, photos and multimedia which are shared with any other users who have agreed to be their friend or, with different privacy settings, publicly. Users can also communicate directly with each other with Messenger, edit messages (within 15 minutes after sending),[10][11] join common-interest groups, and receive notifications on the activities of their Facebook friends and the pages they follow.
+
+Facebook has often been criticized over issues such as user privacy (as with the Facebook–Cambridge Analytica data scandal), political manipulation (as with the 2016 U.S. elections) and mass surveillance.[12] The company has also been subject to criticism over its psychological effects such as addiction and low self-esteem, and over content such as fake news, conspiracy theories, copyright infringement, and hate speech.[13] Commentators have accused Facebook of willingly facilitating the spread of such content, as well as exaggerating its number of users to appeal to advertisers.[14]
+
+History
+Main article: History of Facebook
+
+Mark Zuckerberg, co-creator of Facebook, in his Harvard dorm room, November 2005
+The history of Facebook traces its growth from a college networking site to a global social networking service.[15]
+
+While attending Phillips Exeter in the early 2000s, Zuckerberg met Kris Tillery. Tillery, a one-time project collaborator with Zuckerberg, would create a school-based social networking project called Photo Address Book. Photo Address Book was a digital face book, created through a linked database composed of student information derived from the official records of the Exeter Student Council. The database contained linkages such as name, dorm-specific landline numbers, and student headshots.[16]
+
+Mark Zuckerberg built a website called "Facemash" in 2003 while attending Harvard University. The site was comparable to Hot or Not and used photos from online face books, asking users to choose the 'hotter' person".[17] Zuckerberg was reported and faced expulsion, but the charges were dropped.[17]
+
+A "face book" is a student directory featuring photos and personal information. In January 2004, Zuckerberg coded a new site known as "TheFacebook", stating, "It is clear that the technology needed to create a centralized Website is readily available ... the benefits are many." Zuckerberg met with Harvard student Eduardo Saverin, and each agreed to invest $1,000.[18] On February 4, 2004, Zuckerberg launched "TheFacebook".[19]
+
+Membership was initially restricted to students of Harvard College. Dustin Moskovitz, Andrew McCollum, and Chris Hughes joined Zuckerberg to help manage the growth of the site.[20] It became available successively to most universities in the US and Canada.[21][22] In 2004, Napster co-founder Sean Parker became company president[23] and the company moved to Palo Alto, California.[24] PayPal co-founder Peter Thiel gave Facebook its first investment.[25][26] In 2005, the company dropped "the" from its name after purchasing the domain name Facebook.com.[27]
+
+In 2006, Facebook opened to everyone at least 13 years old with a valid email address.[28][29][30] Facebook introduced key features like the News Feed, which became central to user engagement. By late 2007, Facebook had 100,000 pages on which companies promoted themselves.[31] Facebook had surpassed MySpace in global traffic and became the world's most popular social media platform. Microsoft announced that it had purchased a 1.6% share of Facebook for $240 million ($364 million in 2024 dollars[32]), giving Facebook an implied value of around $15 billion ($22.7 billion in 2024 dollars[32]). Facebook focused on generating revenue through targeted advertising based on user data, a model that drove its rapid financial growth. In 2012, Facebook went public with one of the largest IPOs in tech history. Acquisitions played a significant role in Facebook's dominance. In 2012, it purchased Instagram, followed by WhatsApp and Oculus VR in 2014, extending its influence beyond social networking into messaging and virtual reality.
+
+The Facebook–Cambridge Analytica data scandal in 2018 revealed misuse of user data to influence elections, sparking global outcry and leading to regulatory fines and hearings. Facebook's role in global events, including its use in organizing movements like the Arab Spring and its impact on events like the Rohingya genocide in Myanmar, highlighted its dual nature as a tool for both empowerment and harm. In 2021, Facebook rebranded as Meta, reflecting its shift toward building the "metaverse" and focusing on virtual reality and augmented reality technologies.
+
+Features
+Facebook does not officially publish a maximum character limit for posts; however, User posts can be lengthy, with unofficial sources suggesting a high character limit. Posts may also include images and videos. According to Facebook's official business documentation, videos can be up to 240 minutes long and 10 GB in file size, with supported resolutions up to 1080p.[33]
+
+Users can "friend" users, both sides must agree to being friends.[34] Posts can be changed to be seen by everyone (public), friends, people in a certain group (group) or by selected friends (private).[35] Users can join groups.[36] Groups are composed of persons with shared interests. For example, they might go to the same sporting club, live in the same suburb, have the same breed of pet or share a hobby.[36] Posts posted in a group can be seen only by those in a group, unless set to public.[37]
+
+Users are able to buy, sell, and swap things on Facebook Marketplace or in a Buy, Swap and Sell group.[38][39] Facebook users may advertise events, which can be offline, on a website other than Facebook, or on Facebook.[40]
+
+Website
+Further information: List of Facebook features and Facebook Platform
+
+Profile shown on Thefacebook in 2005
+
+Former Facebook logo in use from August 23, 2005, until July 1, 2015
+Technical aspects
+The site's primary color is blue as Zuckerberg is red–green colorblind, a realization that occurred after a test taken around 2007.[41][42] Facebook was initially built using PHP, a popular scripting language designed for web development.[43] PHP was used to create dynamic content and manage data on the server side of the Facebook application. Zuckerberg and co-founders chose PHP for its simplicity and ease of use, which allowed them to quickly develop and deploy the initial version of Facebook. As Facebook grew in user base and functionality, the company encountered scalability and performance challenges with PHP. In response, Facebook engineers developed tools and technologies to optimize PHP performance. One of the most significant was the creation of the HipHop Virtual Machine (HHVM). This significantly improved the performance and efficiency of PHP code execution on Facebook's servers.
+
+The site upgraded from HTTP to the more secure HTTPS in January 2011.[44]
+
+2012 architecture
+Facebook is developed as one monolithic application. According to an interview in 2012 with Facebook build engineer Chuck Rossi, Facebook compiles into a 1.5 GB binary blob which is then distributed to the servers using a custom BitTorrent-based release system. Rossi stated that it takes about 15 minutes to build and 15 minutes to release to the servers. The build and release process has zero downtime. Changes to Facebook are rolled out daily.[45]
+
+Facebook used a combination platform based on HBase to store data across distributed machines. Using a tailing architecture, events are stored in log files, and the logs are tailed. The system rolls these events up and writes them to storage. The user interface then pulls the data out and displays it to users. Facebook handles requests as AJAX behavior. These requests are written to a log file using Scribe (developed by Facebook).[46]
+
+Data is read from these log files using Ptail, an internally built tool to aggregate data from multiple Scribe stores. It tails the log files and pulls data out. Ptail data are separated into three streams and sent to clusters in different data centers (Plugin impression, News feed impressions, Actions (plugin + news feed)). Puma is used to manage periods of high data flow (Input/Output or IO). Data is processed in batches to lessen the number of times needed to read and write under high demand periods. (A hot article generates many impressions and news feed impressions that cause huge data skews.) Batches are taken every 1.5 seconds, limited by memory used when creating a hash table.[46]
+
+Data is then output in PHP format. The backend is written in Java. Thrift is used as the messaging format so PHP programs can query Java services. Caching solutions display pages more quickly. The data is then sent to MapReduce servers where it is queried via Hive. This serves as a backup as the data can be recovered from Hive.[46]
+
+Content delivery network (CDN)
+Facebook uses its own content delivery network or "edge network" under the domain fbcdn.net for serving static data.[47][48] Until the mid-2010s, Facebook also relied on Akamai for CDN services.[49][50][51]
+
+Hack programming language
+Main article: Hack (programming language)
+On March 20, 2014, Facebook announced a new open-source programming language called Hack. Before public release, a large portion of Facebook was already running and "battle tested" using the new language.[52]
+
+User profile/personal timeline
+
+Facebook login/signup screen
+Each registered user on Facebook has a personal profile that shows their posts and content.[53] The format of individual user pages was revamped in September 2011 and became known as "Timeline", a chronological feed of a user's stories,[54][55] including status updates, photos, interactions with apps and events.[56] The layout let users add a "cover photo".[56] Users were given more privacy settings.[56] In 2007, Facebook launched Facebook Pages for brands and celebrities to interact with their fanbases.[57][58] In June 2009, Facebook introduced a "Usernames" feature, allowing users to choose a unique nickname used in the URL for their personal profile, for easier sharing.[59][60]
+
+In February 2014, Facebook expanded the gender setting, adding a custom input field that allows users to choose from a wide range of gender identities. Users can also set which set of gender-specific pronoun should be used in reference to them throughout the site.[61][62][63] In May 2014, Facebook introduced a feature to allow users to ask for information not disclosed by other users on their profiles. If a user does not provide key information, such as location, hometown, or relationship status, other users can use a new "ask" button to send a message asking about that item to the user in a single click.[64][65]
+
+News Feed
+Further information: News Feed
+News Feed appears on every user's homepage and highlights information including profile changes, upcoming events and friends' birthdays.[66] This enabled spammers and other users to manipulate these features by creating illegitimate events or posting fake birthdays to attract attention to their profile or cause.[67] Initially, the News Feed caused dissatisfaction among Facebook users; some complained it was too cluttered and full of undesired information, others were concerned that it made it too easy for others to track individual activities (such as relationship status changes, events, and conversations with other users).[68] Zuckerberg apologized for the site's failure to include appropriate privacy features. Users then gained control over what types of information are shared automatically with friends. Users are now able to prevent user-set categories of friends from seeing updates about certain types of activities, including profile changes, Wall posts and newly added friends.[69]
+
+On February 23, 2010, Facebook was granted a patent[70] on certain aspects of its News Feed. The patent covers News Feeds in which links are provided so that one user can participate in the activity of another user.[71] The sorting and display of stories in a user's News Feed is governed by the EdgeRank algorithm.[72] The Photos application allows users to upload albums and photos.[73] Each album can contain 200 photos.[74] Privacy settings apply to individual albums. Users can "tag", or label, friends in a photo. The friend receives a notification about the tag with a link to the photo.[75] This photo tagging feature was developed by Aaron Sittig, now a Design Strategy Lead at Facebook, and former Facebook engineer Scott Marlette back in 2006 and was only granted a patent in 2011.[76][77]
+
+On June 7, 2012, Facebook launched its App Center to help users find games and other applications.[78]
+
+On May 13, 2015, Facebook in association with major news portals launched "Instant Articles" to provide news on the Facebook news feed without leaving the site.[79][80] In January 2017, Facebook launched Facebook Stories for iOS and Android in Ireland. The feature, following the format of Snapchat and Instagram stories, allows users to upload photos and videos that appear above friends' and followers' News Feeds and disappear after 24 hours.[81]
+
+On October 11, 2017, Facebook introduced the 3D Posts feature to allow for uploading interactive 3D assets.[82] On January 11, 2018, Facebook announced that it would change News Feed to prioritize friends/family content and de-emphasize content from media companies.[83] In February 2020, Facebook announced it would spend $1 billion ($1.21 billion in 2024 dollars[32]) to license news material from publishers for the next three years; a pledge coming as the company falls under scrutiny from governments across the globe over not paying for news content appearing on the platform. The pledge would be in addition to the $600 million ($729 million in 2024 dollars[32]) paid since 2018 through deals with news companies such as The Guardian and Financial Times.[84][85][86]
+
+In March and April 2021, in response to Apple announcing changes to its iOS device's Identifier for Advertisers policy, which included requiring app developers to directly request to users the ability to track on an opt-in basis, Facebook purchased full-page newspaper advertisements attempting to convince users to allow tracking, highlighting the effects targeted ads have on small businesses.[87] Facebook's efforts were ultimately unsuccessful, as Apple released iOS 14.5 in late April 2021, containing the feature for users in what has been deemed "App Tracking Transparency". Moreover, statistics from Verizon Communications subsidiary Flurry Analytics show 96% of all iOS users in the United States are not permitting tracking at all, and only 12% of worldwide iOS users are allowing tracking, which some news outlets deem "Facebook's nightmare", among similar terms.[88][89][90][91] Despite the news, Facebook stated that the new policy and software update would be "manageable".[92]
+
+Like button
+Further information: Facebook like button
+
+The Facebook "like" button
+The "like" button, stylized as a "thumbs up" icon, was first enabled on February 9, 2009,[93] and enables users to easily interact with status updates, comments, photos and videos, links shared by friends, and advertisements. Once clicked by a user, the designated content is more likely to appear in friends' News Feeds.[94][95] The button displays the number of other users who have liked the content.[96] The like button was extended to comments in June 2010.[97] In February 2016, Facebook expanded Like into "Reactions", allowing users to choose from five pre-defined emotions: "Love", "Haha", "Wow", "Sad", or "Angry".[98][99][100][101] In late April 2020, during the COVID-19 pandemic, a new "Care" reaction was added.[102]
+
+Instant messaging
+Main article: Facebook Messenger
+Facebook Messenger is an instant messaging service and software application. It began as Facebook Chat in 2008,[103] was revamped in 2010[104] and eventually became a standalone mobile app in August 2011, while remaining part of the user page on browsers.[105] Complementing regular conversations, Messenger lets users make one-to-one[106] and group[107] voice[108] and video calls.[109] Its Android app has integrated support for SMS[110] and "Chat Heads", which are round profile photo icons appearing on-screen regardless of what app is open,[111] while both apps support multiple accounts,[112] conversations with optional end-to-end encryption[113] and "Instant Games".[114] Some features, including sending money[115] and requesting transportation,[116] are limited to the United States.[115] In 2017, Facebook added "Messenger Day", a feature that lets users share photos and videos in a story-format with all their friends with the content disappearing after 24 hours;[117] Reactions, which lets users tap and hold a message to add a reaction through an emoji;[118] and Mentions, which lets users in group conversations type @ to give a particular user a notification.[118]
+
+In April 2020, Facebook began rolling out a new feature called Messenger Rooms, a video chat feature that allows users to chat with up to 50 people at a time.[119] In July 2020, Facebook added a new feature in Messenger that lets iOS users to use Face ID or Touch ID to lock their chats. The feature is called App Lock and is a part of several changes in Messenger regarding privacy and security.[120][121] On October 13, 2020, the Messenger application introduced cross-app messaging with Instagram, which was launched in September 2021.[122] In addition to the integrated messaging, the application announced the introduction of a new logo, which will be an amalgamation of the Messenger and Instagram logo.[123]
+
+Businesses and users can interact through Messenger with features such as tracking purchases and receiving notifications, and interacting with customer service representatives. Third-party developers can integrate apps into Messenger, letting users enter an app while inside Messenger and optionally share details from the app into a chat.[124] Developers can build chatbots into Messenger, for uses such as news publishers building bots to distribute news.[125] Businesses like respond.io, Twilio, and Manychat also used the APIs to develop chatbots and automation platforms for commercial use.[126]
+
+The M virtual assistant (U.S.) scans chats for keywords and suggests relevant actions, such as its payments system for users mentioning money.[127][128] Group chatbots appear in Messenger as "Chat Extensions". A "Discovery" tab allows finding bots, and enabling special, branded QR codes that, when scanned, take the user to a specific bot.[129]
+
+Privacy policy
+See also: § Privacy
+Facebook's data policy outlines its policies for collecting, storing, and sharing user's data.[130] Facebook enables users to control access to individual posts and their profile[131] through privacy settings.[132] The user's name and profile picture (if applicable) are public.
+
+Facebook's revenue depends on targeted advertising, which involves analyzing user data to decide which ads to show each user. Facebook buys data from third parties, gathered from both online and offline sources, to supplement its own data on users. Facebook maintains that it does not share data used for targeted advertising with the advertisers themselves.[133] The company states:
+
+"We provide advertisers with reports about the kinds of people seeing their ads and how their ads are performing, but we don't share information that personally identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us permission. For example, we provide general demographic and interest information to advertisers (for example, that an ad was seen by a woman between the ages of 25 and 34 who lives in Madrid and likes software engineering) to help them better understand their audience. We also confirm which Facebook ads led you to make a purchase or take an action with an advertiser."[130]
+
+As of October 2021, Facebook claims it uses the following policy for sharing user data with third parties:
+
+Apps, websites, and third-party integrations on or using our Products.
+
+When you choose to use third-party apps, websites, or other services that use, or are integrated with, our Products, they can receive information about what you post or share. For example, when you play a game with your Facebook friends or use a Facebook Comment or Share button on a website, the game developer or website can receive information about your activities in the game or receive a comment or link that you share from the website on Facebook. Also, when you download or use such third-party services, they can access your public profile on Facebook, and any information that you share with them. Apps and websites you use may receive your list of Facebook friends if you choose to share it with them. But apps and websites you use will not be able to receive any other information about your Facebook friends from you, or information about any of your Instagram followers (although your friends and followers may, of course, choose to share this information themselves). Information collected by these third-party services is subject to their own terms and policies, not this one.
+
+Devices and operating systems providing native versions of Facebook and Instagram (i.e. where we have not developed our own first-party apps) will have access to all information you choose to share with them, including information your friends share with you, so they can provide our core functionality to you.
+
+Note: We are in the process of restricting developers' data access even further to help prevent abuse. For example, we will remove developers' access to your Facebook and Instagram data if you haven't used their app in 3 months, and we are changing Login, so that in the next version, we will reduce the data that an app can request without app review to include only name, Instagram username and bio, profile photo and email address. Requesting any other data will require our approval.[130]
+
+Facebook will also share data with law enforcement if needed to.[130]
+
+Facebook's policies have changed repeatedly since the service's debut, amid a series of controversies covering everything from how well it secures user data, to what extent it allows users to control access, to the kinds of access given to third parties, including businesses, political campaigns and governments. These facilities vary according to country, as some nations require the company to make data available (and limit access to services), while the European Union's GDPR regulation mandates additional privacy protections.[134]
+
+Bug Bounty Program
+
+A Facebook "White Hat" debit card, given to researchers who report security bugs, May 2014
+On July 29, 2011, Facebook announced its Bug Bounty Program that paid security researchers a minimum of $500 ($699.00 in 2024 dollars[32]) for reporting security holes. The company promised not to pursue "white hat" hackers who identified such problems.[135][136] This led researchers in many countries to participate, particularly in India and Russia.[137]
