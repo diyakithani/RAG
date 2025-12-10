@@ -2,6 +2,10 @@
 venv/
 env/
 .venv/
+Scripts/
+Lib/
+Include/
+pyvenv.cfg
 
 # Python
 __pycache__/
